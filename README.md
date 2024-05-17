@@ -59,4 +59,4 @@ pip install google-generativeai
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/Gemini-bot/blob/main/LICENSE) file for details.
