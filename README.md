@@ -8,7 +8,7 @@ Welcome to the Gemini API Key Setup Guide! This document will walk you through t
 
 ### Step 1: Sign in to your Gemini Account
 
-If you don't have an account yet, you'll need to sign up for one on the [Google Gemini website](https://gemini.google.com/). Once you've signed up, log in to your account.
+If you don't have an account yet, you'll need to sign up for one on the [Google Gemini ai dev website](https://ai.google.dev/). Once you've signed up, log in to your account.
 
 ### Step 2: Navigate to API Settings
 
